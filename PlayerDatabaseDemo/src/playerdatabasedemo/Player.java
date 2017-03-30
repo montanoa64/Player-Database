@@ -11,7 +11,7 @@ package playerdatabasedemo;
  */
 public class Player {
     
-    private String Name;
+    private String Name;//this is dope
     private int Score;
     private int Shirt;
     
